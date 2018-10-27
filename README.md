@@ -1,0 +1,2 @@
+# su
+Strojno učenje - Fer
