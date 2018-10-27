@@ -1,5 +1,5 @@
 # su
-Strojno učenje - Fer (Ak.god. 2017./2018.)
+Strojno učenje [[su]](https://www.fer.unizg.hr/predmet/su/) - Fer (Ak.god. 2017./2018.)
 
 Laboratorijske vježbe:
 
