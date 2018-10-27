@@ -1,4 +1,4 @@
-# [Strojno učenje - Laboratorijske vježbe (FER)](https://www.fer.unizg.hr/predmet/su/)
+# [Strojno učenje](https://www.fer.unizg.hr/predmet/su/) - Laboratorijske vježbe (FER)
 
 Laboratorijske vježbe (Ak.god. 2017./2018.):
 
